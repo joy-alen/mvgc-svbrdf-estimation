@@ -1,3 +1,5 @@
+# Written by Alen Joy
+
 #To visualize the target images
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import imshow
